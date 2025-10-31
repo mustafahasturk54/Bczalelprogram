@@ -7,6 +7,7 @@ Modern ve kullanıcı dostu bir Android uygulaması ile öğrencilerin sınav pr
 - 📱 **Modern Arayüz**: Material Design 3 ile şık ve profesyonel tasarım
 - 🔍 **Arama**: Öğrenci adı, numarası veya sınıfa göre hızlı arama
 - 🎓 **Sınıf Filtresi**: İstediğiniz sınıfı filtreleyerek görüntüleyin
+- ⭐ **Favoriler**: En çok kullandığınız 2 sınıfı favorilere ekleyin, tek tıkla erişin
 - 📋 **Detaylı Bilgi**: Her öğrenci için:
   - Öğrenci adı ve soyadı
   - Sınıf bilgisi
@@ -19,6 +20,11 @@ Modern ve kullanıcı dostu bir Android uygulaması ile öğrencilerin sınav pr
   - Sınav tarihi ve saati
   - Salon bilgisi
   - Yer numarası
+- 📍 **Salon Yerleşim Görünümü**: Sınav salonundaki tüm öğrencileri ve yerleşim düzenini görüntüleyin
+  - İki kişilik masa düzeninde yerleşim
+  - Sınıftaki diğer öğrencileri görme
+  - Kendi yerinizi vurgulu görün
+  - Salon arkadaşlarınızı tanıyın
 - 🎨 **Açık/Koyu Tema**: Sistem teması ile uyumlu otomatik tema desteği
 - ⚡ **Performanslı**: Hafif ve hızlı, sistemi yormayan yapı
 
@@ -65,12 +71,13 @@ Uygulama, öğrencilerin sınav programlarını görüntülemek için modern ve 
 - 📸 Instagram: [@mustafahasturk54](https://instagram.com/mustafahasturk54)
 - 💻 GitHub: [mustafahasturk54](https://github.com/mustafahasturk54)
 
-## 💎 Sponsor Projesi
 
+## 💎 ECHOFY (ÇOK YAKINDA)
 
 **Echofy** - The Professional Modern Music SuperApp (Yakında yayınlanacak)
 - 🌐 GitHub: [github.com/mustafahasturk54/echofy](https://github.com/mustafahasturk54/echofy)
 - 📸 Instagram: [@echofyapp](https://instagram.com/echofyapp) - Takip edin ve yeniliklerden haberdar olun!
+
 
 ## 📄 Lisans
 
